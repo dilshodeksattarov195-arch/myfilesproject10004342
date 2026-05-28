@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configponnect",
+        "uuid": 28800486,
+        "checksum": "lcpyz"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
